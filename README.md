@@ -1,10 +1,10 @@
 # Data Science, Quantitative Analysis & Financial Modeling Portfolio  
-
 **So Young Kim**  
-Data Science • Quantitative Finance • Risk & Market Analytics
+Data Science • Quantitative Finance • Risk & Market Analytics  
 
-This portfolio showcases selected data science, forecasting, and financial analytics projects built across market datasets (U.S. Treasury yields, volatility regimes, retail sales), credit and loan performance data, and real-world operational data from the American Red Cross. My work emphasizes:
+This portfolio showcases selected data science, forecasting, and financial analytics projects built across market datasets (U.S. Treasury yields, volatility regimes, retail sales), credit and loan performance data, and real-world operational data from the American Red Cross.  
 
+My work emphasizes:  
 - statistical modeling & machine learning  
 - risk and market structure analysis  
 - time-series forecasting & economic signals  
@@ -14,7 +14,8 @@ This portfolio showcases selected data science, forecasting, and financial analy
 The goal of this portfolio is to demonstrate depth in **data science applied to finance**, with end-to-end pipelines that reflect real analytical rigor, domain understanding, and quantitative reasoning.
 
 ---
-### 1. Market Fragility, Volatility Dynamics & ML Risk Modeling  
+
+## 1. Market Fragility, Volatility Dynamics & ML Risk Modeling  
 
 **Skills Demonstrated:**  
 Python (pandas, numpy, statsmodels, scikit-learn); GARCH volatility models; machine learning (random forest, gradient boosting); risk signal feature engineering; regime diagnostics; backtesting and interpretability analysis.
@@ -28,7 +29,7 @@ Developed conditional volatility estimates using GARCH models and trained ML-bas
 
 ---
 
-### 2. Credit Risk & Default Probability Modeling (ML + Validation)
+## 2. Credit Risk & Default Probability Modeling (ML + Validation)
 
 **Skills Demonstrated:**  
 Python (pandas, numpy, scikit-learn); logistic regression; gradient boosting (GBDT); credit-risk feature engineering; PD modeling workflows; model validation (KS/ROC/AUC); calibration curves; backtesting; drift and stability analysis; documentation and interpretability.
@@ -42,11 +43,10 @@ Built PD models with full validation: ROC/AUC, KS, calibration, confusion diagno
 
 ---
 
-### 3. Treasury Yield Curve & Inversion Analytics (1990–2024)
+## 3. Treasury Yield Curve & Inversion Analytics (1990–2024)
 
 **Skills Demonstrated:**  
 Python time-series analysis; spread construction (3M–10Y, 2Y–10Y, 10Y–30Y); recession overlay methodology; data wrangling and pipeline design; macroeconomic interpretation; monetary policy context; research synthesis and documentation; supporting visualization in Power BI.
-
 
 **Overview:**  
 A comprehensive analysis of U.S. Treasury yield behavior across multiple rate cycles (1990–2024). This project examines curve shapes, inversion episodes, policy regimes, and recession timing through quantitative spreads, time-series transformations, and visual analytics.
@@ -59,7 +59,7 @@ Together, they form the analytical foundation for a **three-paper research serie
 
 ---
 
-### 4. Sound the Alarm Analytics (Red Cross Project)
+## 4. Sound the Alarm Analytics (Red Cross Project)
 
 **Skills Demonstrated:**  
 Python-based data cleaning; synthetic data generation for privacy protection; feature engineering; operational KPI design; ETL logic and workflow structuring; exploratory and statistical analysis; prescriptive modeling using machine learning.
@@ -73,7 +73,7 @@ Built a reproducible pipeline for cleaning, engineering, and modeling operationa
 
 ---
 
-### 5. Consumer Loan Risk Analysis
+## 5. Consumer Loan Risk Analysis
 
 **Skills Demonstrated:**  
 SQL–Python pipeline integration; data cleaning and transformation; feature engineering (DTI, utilization metrics, delinquency indicators, payment behavior flags); exploratory machine learning (logistic regression, clustering); risk segmentation; portfolio summarization; visualization (matplotlib, seaborn).
@@ -87,7 +87,7 @@ Produced borrower risk profiles, early-warning indicators, and segmentation anal
 
 ---
 
-### 6. U.S. Retail Sales Forecasting
+## 6. U.S. Retail Sales Forecasting
 
 **Skills Demonstrated:**  
 R-based time-series modeling (ARIMA, ETS); seasonal adjustment; decomposition analysis; forecast evaluation (RMSE, MAPE); comparative model assessment; visualization using base R/ggplot2.
@@ -100,7 +100,7 @@ Produced multi-step forecasts, decomposition views, and full diagnostic checks, 
 
 ---
 
-## Core Technical Skills
+# Core Technical Skills
 
 **Programming & Data Workflows**  
 Python (pandas, numpy, statsmodels, scikit-learn), SQL/MySQL, R, ETL pipeline design, data cleaning and feature engineering, Power Query.
@@ -114,10 +114,9 @@ Yield curve modeling and spreads, credit risk indicators, default probability mo
 **Data Visualization & Reporting**  
 Power BI, Excel, Matplotlib/Seaborn, research-grade visuals, dashboard design, reproducible documentation.
 
-
 ---
 
-## Supporting Projects
+# Supporting Projects
 
 **Yelp NLP & SQL Analysis**  
 Natural language processing and SQL-based data extraction to explore sentiment patterns, review structure, and business attributes. Demonstrates text cleaning, keyword extraction, and join-based analysis.
@@ -128,13 +127,10 @@ Unsupervised clustering and feature engineering on grocery transaction data to i
 **Cyclistic Bike Share Exploration**  
 Exploratory data analysis of usage patterns, seasonal effects, and rider segmentation using Python. Includes cleaning, trend visualization, and descriptive insights for ridership behavior.
 
-
 ---
 
-## Contact
+# Contact  
 **LinkedIn:** https://www.linkedin.com/in/so-young-kim-phd-07312170/  
-**Email:** soyoungkimshin@gmail.com
-
+**Email:** soyoungkimshin@gmail.com  
 
 *Available for data science, quantitative analytics, and risk-focused roles.*
-
