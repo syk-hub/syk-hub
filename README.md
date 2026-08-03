@@ -1,43 +1,48 @@
 # So Young Kim
 
-Portfolio Risk • Fixed Income Analytics • Data Science
+**Credit Risk • Fixed Income Analytics • Quantitative Risk**
 
-Ph.D. UCLA | M.Sc. Economics (LSE) | CFA Level I Passed | FRM Part II Candidate
+Ph.D., UCLA | M.Sc. Economics, LSE | CFA Level I Passed | FRM Part II Candidate
 
-I build analytical projects at the intersection of:
-
-- Fixed Income Analytics
-- Portfolio Risk
-- Credit Risk
-- Market Structure Research
-- Data Science
+I build applied quantitative research and analytics projects focused on **credit, fixed income, and portfolio risk**, combining financial modeling with Python, SQL, and business intelligence tools.
 
 ## Featured Projects
 
+### Consumer Loan Risk Analytics
+
+Credit portfolio analysis examining borrower risk, delinquency patterns, loan performance, and portfolio-level risk indicators using Python and SQL.
+
 ### Treasury Yield Curve & Portfolio Risk Analytics
+
 Three-part research series examining Treasury yield curves, recession signals, duration exposure, and monetary policy regimes.
 
 ### Market Fragility & Volatility Dynamics
-Research series analyzing volatility clustering, liquidity stress, and regime shifts using quantitative methods.
 
-### Consumer Loan Analysis
-SQL + Python credit risk analysis exploring borrower behavior, delinquency patterns, and portfolio risk indicators.
+Quantitative research examining volatility clustering, liquidity stress, market fragility, and regime shifts.
 
 ### Sound the Alarm Analytics
-Operational analytics project supporting the American Red Cross using MongoDB, Power BI, and Python.
 
-### Yelp NLP & SQL Analysis
-Natural language processing and SQL-based analysis of review sentiment and business attributes.
+End-to-end operational analytics project inspired by American Red Cross disaster-preparedness data, using Python, MongoDB, and Power BI.
 
 ### U.S. Retail Sales Forecasting
-Time-series forecasting using ARIMA and related econometric techniques.
 
-## Technical Skills
+Time-series analysis and forecasting of U.S. retail sales using ARIMA and related econometric methods.
 
-Python • SQL • Power BI • Tableau • MongoDB • Excel • R
+## Current Work
+
+### High-Yield Credit Analytics
+
+Developing a high-yield credit analytics framework focused on OAS, spread behavior, credit regimes, and portfolio risk.
+
+## Technical Toolkit
+
+**Programming & Data:** Python • SQL • R • MongoDB<br>
+**Analytics & BI:** Power BI • Tableau • Excel<br>
+**Focus Areas:** Credit Risk • Fixed Income • Portfolio Risk • Time Series • Quantitative Research
 
 ## Contact
 
-LinkedIn: linkedin.com/in/so-young-kim-phd-07312170
+**LinkedIn:** linkedin.com/in/so-young-kim-phd-07312170<br>
+**Email:** [soyoungkimshin@gmail.com](mailto:soyoungkimshin@gmail.com)
 
-Email: soyoungkimshin@gmail.com
+
