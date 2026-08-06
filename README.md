@@ -32,7 +32,9 @@ Time-series analysis and forecasting of U.S. retail sales using ARIMA and relate
 
 ### High-Yield Credit Analytics
 
-Developing a high-yield credit analytics framework focused on OAS, spread behavior, credit regimes, and portfolio risk.
+**Version 1 complete:** reproducible FRED/Python data pipeline, derived credit-risk diagnostics, and a three-page Power BI monitoring dashboard covering high-yield spreads, market stress, performance, and macroeconomic conditions.
+
+**Version 2 in development:** extending the framework toward deeper credit-risk modeling, stress analysis, and portfolio-level applications.
 
 ## Technical Toolkit
 
