@@ -12,6 +12,8 @@ I build applied quantitative research and analytics projects focused on **credit
 
 Two-version credit-market research project combining reproducible Python/FRED pipelines, econometric analysis, robustness testing, and Power BI research dashboards.
 
+The central finding distinguishes explanation from prediction: monthly changes in VIX explain **23.5% of contemporaneous EBP variation**, but only **0.5% of next-month variation** in the predictive specification.
+
 ### Consumer Loan Risk Analytics
 
 Credit portfolio analysis examining borrower risk, delinquency patterns, loan performance, and portfolio-level risk indicators using Python and SQL.
