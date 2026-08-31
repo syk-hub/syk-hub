@@ -8,6 +8,10 @@ I build applied quantitative research and analytics projects focused on **credit
 
 ## Featured Projects
 
+### [High-Yield Credit Analytics](https://github.com/syk-hub/high-yield-credit-analytics)
+
+Two-version credit-market research project combining reproducible Python/FRED pipelines, econometric analysis, robustness testing, and Power BI research dashboards.
+
 ### Consumer Loan Risk Analytics
 
 Credit portfolio analysis examining borrower risk, delinquency patterns, loan performance, and portfolio-level risk indicators using Python and SQL.
