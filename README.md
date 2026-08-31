@@ -30,15 +30,17 @@ Time-series analysis and forecasting of U.S. retail sales using ARIMA and relate
 
 ## Current Work
 
-### High-Yield Credit Analytics
+### Sovereign Risk Intelligence
 
-Applied credit-market research combining reproducible Python/FRED pipelines, econometric analysis, and Power BI research dashboards.
+Developing a research framework to test whether textual and alternative-data signals add timely, defensible information to sovereign-risk assessment beyond structured macro-financial fundamentals.
 
-**Version 1 — High-Yield Market Analytics:** Reproducible market-data pipeline and three-page Power BI dashboard covering high-yield spreads, market stress, total-return performance, and macroeconomic conditions.
+* Constructing a validated cross-country dataset integrating macro-financial indicators with selected unstructured data.
+* Building reproducible Python pipelines for feature extraction, country comparison, and signal evaluation.
+* Evaluating a narrowly defined NLP/LLM application as a complementary information layer, with emphasis on validation, interpretability, and reproducibility.
+* Testing whether the additional information improves sovereign-risk assessment rather than merely reproducing established macroeconomic signals.
 
-**Version 2 — Excess Bond Premium Dynamics:** Research extension examining what explains changes in the credit risk premium and whether contemporaneous stress indicators contain information about future repricing.
+**Status:** Version 1 in development. The scope is intentionally constrained to one research question; findings will be reported only after validation.
 
-The main result shows a sharp distinction between **explanation and prediction**: monthly changes in VIX explain **23.5% of contemporaneous EBP repricing**, but only **0.5% of next-month variation** in the predictive specification. Additional intermediary-capacity and market-mechanism tests are subjected to stationarity and robustness checks rather than treated as headline findings.
 
 
 ## Technical Toolkit
