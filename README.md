@@ -1,6 +1,6 @@
 # So Young Kim
 
-**Credit Risk • Financial Data Engineering • Quantitative Analytics**
+**Credit Risk • Portfolio Analytics • Financial Data Engineering**
 
 Ph.D., UCLA | M.Sc. Economics, LSE | CFA Level I Passed | FRM Part II Candidate
 
@@ -10,15 +10,23 @@ I build financial-data systems and applied quantitative research focused on cred
 
 ### [High-Yield Credit Analytics](https://github.com/syk-hub/high-yield-credit-analytics)
 
-Two-version credit-market research project combining reproducible Python and FRED data pipelines, econometric analysis, robustness testing, and Power BI research dashboards.
+Two-version credit-market research project combining reproducible Python and FRED data pipelines, econometric analysis, robustness testing, and Power BI dashboards.
 
 The central result distinguishes explanation from prediction: monthly changes in VIX explain **23.5% of contemporaneous Excess Bond Premium variation**, but only **0.5% of next-month variation** in the predictive specification.
+
+### [High-Yield Portfolio Performance & Risk Analytics](https://github.com/syk-hub/high-yield-portfolio-performance-risk-analytics)
+
+Ten-bond fixed-income case study combining documented contractual terms with simulated prices, holdings, duration, and option-adjusted spreads.
+
+Python calculates accrued interest, coupon cash, total returns, portfolio contributions, benchmark-relative performance, and risk exposures. PostgreSQL reconciliation queries check NAV, weights, contributions, benchmark construction, and exposure calculations. A self-contained HTML dashboard presents the results.
+
+**Scope:** Simulated performance for March–April 2026, with unresolved bond-evidence limitations documented.
 
 ### [Multi-Asset Credit Security Master](https://github.com/syk-hub/multi-asset-credit-security-master)
 
 Snowflake-based security-master pipeline integrating two JSON vendor feeds and a legacy CSV through typed staging, data-quality controls, collision-aware entity matching, governed survivorship, deterministic identifiers, and attribute-level lineage.
 
-The pipeline converts 91 synthetic source records into 32 governed CORE security records and passes **36 end-to-end regression tests**. It preserves unresolved conflicts rather than manufacturing certainty through arbitrary vendor ranking or tie-breaking.
+The pipeline converts 91 synthetic source records into 32 governed CORE security records and passes **36 end-to-end regression tests**. Unresolved conflicts remain visible for review.
 
 ### [Consumer Loan Risk Analytics](https://github.com/syk-hub/consumer-loan-risk-analytics)
 
@@ -26,7 +34,7 @@ Credit-portfolio analysis examining borrower risk, delinquency patterns, loan pe
 
 ### [Sound the Alarm Analytics](https://github.com/syk-hub/sound-the-alarm-analytics)
 
-End-to-end operational analytics project inspired by American Red Cross disaster-preparedness data, using Python, MongoDB, and Power BI.
+Operational analytics project inspired by American Red Cross disaster-preparedness data, using Python, MongoDB, and Power BI.
 
 ### [U.S. Retail Sales Forecasting](https://github.com/syk-hub/Forecasting-US-Retail-Sales)
 
@@ -34,27 +42,34 @@ Time-series analysis and forecasting of U.S. retail sales using ARIMA and relate
 
 ## Current Work
 
-### Sovereign Risk Intelligence
+### [Sovereign Credit Intelligence — PEMEX and Mexico](https://github.com/syk-hub/sovereign-credit-intelligence)
 
-Developing a research framework to test whether textual and alternative-data signals add timely, defensible information to sovereign-risk assessment beyond structured macro-financial fundamentals.
+Developing a sovereign and quasi-sovereign credit research framework, beginning with PEMEX and Mexico’s capacity to provide financial support.
 
-Current work includes:
+The pilot combines bond-level contractual evidence, issuer financial trends, and dated government-support observations. Python and SQL pipelines preserve source provenance and distinguish discretionary financial support from contractual guarantees.
 
-* Constructing a validated cross-country macro-financial dataset
-* Building reproducible Python pipelines for feature extraction and country comparison
-* Evaluating a narrowly defined NLP/LLM application as a complementary information layer
-* Testing whether alternative information improves risk assessment rather than reproducing established macroeconomic signals
+Current work extends the issuer analysis to Mexico’s fiscal capacity, external liquidity, and macroeconomic conditions. A later research stage will evaluate whether textual signals add information beyond structured fundamentals.
 
-**Status:** Version 1 is in development. Findings will be reported only after validation.
+**Status:** Version 1 is in development; the current scope is a PEMEX–Mexico pilot.
+
+### American Red Cross — Regional Deployment Decision Support
+
+Volunteer work developing ArcGIS dashboards for the Los Angeles Region, combining territory boundaries, social vulnerability, incident layers, and shelter inventory.
+
+The shelter inventory dashboard presents **1,449 mapped records**, with filters for territory, accessibility, and site type. The work emphasizes source limitations, duplicate records, and the distinction between recorded inventory and operational readiness.
+
+**Tools:** ArcGIS Online, Dashboards, and Experience Builder. Organizational data and project files are maintained outside this public GitHub portfolio.
 
 ## Technical Toolkit
 
-* **Programming and data:** Python, SQL, R, MongoDB, Snowflake
-* **Analytics and BI:** Power BI, Tableau, Excel
-* **Methods:** Econometric analysis, time-series analysis, data-quality controls, entity matching, regression testing
-* **Focus areas:** Credit risk, fixed income, financial data engineering, portfolio risk, quantitative research
+- **Programming and databases:** Python, SQL, R, PostgreSQL, Snowflake, MongoDB
+- **Analytics and visualization:** Power BI, Tableau, Excel, ArcGIS Online
+- **Quantitative methods:** Econometric analysis, time-series forecasting, regression analysis, robustness testing
+- **Data systems and controls:** Data-quality validation, entity matching, attribute-level lineage, reconciliation, regression testing
+- **Development tools:** Git, GitHub, VS Code, GitHub Copilot
+- **Financial focus:** Credit risk, fixed income, portfolio returns and attribution, duration and spread exposures, sovereign and quasi-sovereign research
 
 ## Contact
 
-* **LinkedIn:** [linkedin.com/in/so-young-kim-phd-07312170](https://www.linkedin.com/in/so-young-kim-phd-07312170)
-* **Email:** [soyoungkimshin@gmail.com](mailto:soyoungkimshin@gmail.com)
+- **LinkedIn:** [linkedin.com/in/so-young-kim-phd-07312170](https://www.linkedin.com/in/so-young-kim-phd-07312170)
+- **Email:** [soyoungkimshin@gmail.com](mailto:soyoungkimshin@gmail.com)
