@@ -66,7 +66,7 @@ The shelter inventory dashboard presents **1,449 mapped records**, with filters 
 - **Analytics and visualization:** Power BI, Tableau, Excel, ArcGIS Online
 - **Quantitative methods:** Econometric analysis, time-series forecasting, regression analysis, robustness testing
 - **Data systems and controls:** Data-quality validation, entity matching, attribute-level lineage, reconciliation, regression testing
-- **Development tools:** Git, GitHub, VS Code, GitHub Copilot
+- **Validation and reproducibility:** Financial reconciliation, source provenance, automated data checks, and regression testing
 - **Financial focus:** Credit risk, fixed income, portfolio returns and attribution, duration and spread exposures, sovereign and quasi-sovereign research
 
 ## Contact
