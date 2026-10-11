@@ -24,9 +24,9 @@ Python calculates accrued interest, coupon cash, total returns, portfolio contri
 
 ### [Multi-Asset Credit Security Master](https://github.com/syk-hub/multi-asset-credit-security-master)
 
-Snowflake-based security-master pipeline integrating two JSON vendor feeds and a legacy CSV through typed staging, data-quality controls, collision-aware entity matching, governed survivorship, deterministic identifiers, and attribute-level lineage.
+Snowflake-based security-master pipeline integrating two JSON vendor feeds and a legacy CSV through typed staging, data-quality controls, identifier-based matching, governed survivorship, and attribute-level lineage.
 
-The pipeline converts 91 synthetic source records into 32 governed CORE security records and passes **36 end-to-end regression tests**. Unresolved conflicts remain visible for review.
+The baseline run converts 91 synthetic source records into 32 CORE security records, passing 36 end-to-end regression tests. A second batch tests 12 exception scenarios, with 23 of 24 assertions passing. Testing exposed duplicate matching assignments and a decision-count discrepancy, documented as open defects. Exported results preserve evidence from both runs.
 
 ### [Consumer Loan Risk Analytics](https://github.com/syk-hub/consumer-loan-risk-analytics)
 
@@ -65,8 +65,7 @@ The shelter inventory dashboard presents **1,449 mapped records**, with filters 
 - **Programming and databases:** Python, SQL, R, PostgreSQL, Snowflake, MongoDB
 - **Analytics and visualization:** Power BI, Tableau, Excel, ArcGIS Online
 - **Quantitative methods:** Econometric analysis, time-series forecasting, regression analysis, robustness testing
-- **Data systems and controls:** Data-quality validation, entity matching, attribute-level lineage, reconciliation, regression testing
-- **Validation and reproducibility:** Financial reconciliation, source provenance, automated data checks, and regression testing
+- **Data engineering and validation:** Data-quality controls, entity matching, source provenance, attribute-level lineage, financial reconciliation, regression testing
 - **Financial focus:** Credit risk, fixed income, portfolio returns and attribution, duration and spread exposures, sovereign and quasi-sovereign research
 
 ## Contact
