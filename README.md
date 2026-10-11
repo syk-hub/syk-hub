@@ -64,7 +64,7 @@ The shelter inventory dashboard presents **1,449 mapped records**, with filters 
 
 - **Programming and databases:** Python, SQL, R, PostgreSQL, Snowflake, MongoDB
 - **Analytics and visualization:** Power BI, Tableau, Excel, ArcGIS Online
-- **Quantitative methods:** Econometric analysis, time-series forecasting, regression analysis, robustness testing
+- **Quantitative methods:** Machine learning, econometric analysis, time-series forecasting, volatility modeling, regression analysis, robustness testing
 - **Data engineering and validation:** Data-quality controls, entity matching, source provenance, attribute-level lineage, financial reconciliation, regression testing
 - **Financial focus:** Credit risk, fixed income, portfolio returns and attribution, duration and spread exposures, sovereign and quasi-sovereign research
 
